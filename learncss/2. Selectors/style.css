@@ -1,0 +1,28 @@
+/* Universal selector */
+*{
+    font-family: cursive;
+}
+/* Element Selector */
+body{
+    font-size: 24px;
+}
+p:hover{
+    font-family: monospace;
+}
+/* ID Selector */
+#first>p{
+    color: green;
+}
+#first, #second{
+    color: red;
+}
+
+/* Class Selector */
+.purple{
+    color: purple;
+    font-family: monospace;
+}
+.highlight{
+    background-color: yellow;
+    font-weight: bolder;
+}
