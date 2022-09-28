@@ -5,6 +5,7 @@
 /* Element Selector */
 body{
     font-size: 24px;
+    background-color: aqua;
 }
 p:hover{
     font-family: monospace;

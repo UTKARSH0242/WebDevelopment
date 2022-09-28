@@ -1,0 +1,20 @@
+main{
+    border: 5px dotted burlywood;
+    /* width: 50%; */
+    width: 25%;
+}
+h1{
+    font-size: 3rem;
+}
+h3{
+    font-size: 1.5rem;
+}
+p{
+    font-size: 1.5rem;
+}
+
+section{
+    border: 5px dashed green;
+    width: 50vw;
+    /* height: 200vh; */
+}
