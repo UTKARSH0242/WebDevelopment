@@ -16,6 +16,7 @@ p:hover{
 }
 #first, #second{
     color: red;
+    text-align: center;
 }
 
 /* Class Selector */

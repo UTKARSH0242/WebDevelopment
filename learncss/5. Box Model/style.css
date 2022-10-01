@@ -1,0 +1,12 @@
+.box{
+    border: 20px solid rebeccapurple;
+    /* By giving only one value in padding each browser will automatically give the same padding to each side of the box */
+    /* padding: 40px;  */
+    /* if you want to give diffrent padding in each side of the box we can give 4 diffrent value ot each side */
+    padding: 40px 35px 30px;
+    margin: 40px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
