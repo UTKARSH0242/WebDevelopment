@@ -2,13 +2,13 @@ body{
     background-color: #001219;
     color: white;
     text-align: center;
-    font-size: 30;
+    font-size: 35;
     font-family: cursive;
     /* font-style:; */
 }
 article{
     background-color: #4a4e69;
-    padding:40px ;
+    padding:45px ;
     margin: 40px;
     border-radius: 40px;
 
