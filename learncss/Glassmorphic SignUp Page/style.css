@@ -78,7 +78,7 @@ body {
   width: 200px;
   height: 200px;
   border-radius: 100px;
-  background: linear-gradient(to top right, #ffffffaa, #ffffffff);
+  background: linear-gradient(to top right, #ffffff33, #ffffffff);
   position: absolute;
 }
 .c1 {
@@ -87,4 +87,5 @@ body {
 }
 .c2 {
   bottom: 200px;
+  right: 50px;
 }
